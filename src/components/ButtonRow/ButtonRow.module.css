@@ -1,8 +1,6 @@
 .buttonRow {
-  overflow-x: auto;
-  padding: 16px;
-}
-
-.buttonRowInner {
-  width: max-content;
+  overflow: auto;
+  white-space: nowrap;
+  margin: 0 -22px -22px;
+  padding: 0 22px 22px;
 }

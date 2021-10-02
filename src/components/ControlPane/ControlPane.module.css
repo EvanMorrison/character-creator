@@ -2,7 +2,6 @@
   padding: 24px;
   /* Optical centering */
   padding-top: 18px;
-  padding-bottom: 10px;
   background-color: white;
   border-radius: 8px;
   /*
@@ -11,7 +10,6 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
-  max-width: 100%;
 }
 
 .title {
